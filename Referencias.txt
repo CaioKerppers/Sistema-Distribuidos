@@ -1,0 +1,7 @@
+https://static.googleusercontent.com/media/research.google.com/pt-BR//archive/gfs-sosp2003.pdf
+
+https://lisha.ufsc.br/teaching/os/ine5355-2008-2/work/gfs.pdf
+
+https://research.google/pubs/the-google-file-system/
+
+https://www-di.inf.puc-rio.br/~endler/courses/Cloud/gfs.pdf
